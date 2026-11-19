@@ -1,16 +1,50 @@
-## Hi there 👋
+¡Hola! Soy un desarrollador de software 👋
 
-<!--
-**kisio-dev/kisio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresado de la Tecnicatura Universitaria en Programación de la UTN, Argentina.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo web, la creación de aplicaciones y videojuegos. Solucionar problemas mediante software me resulta fascinante. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy desarrollando proyectos personales para seguir creciendo como desarrollador y adquirir experiencia profesional.
+
+🚀 Tecnologías
+
+Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+
+Framework
+- Vue.js
+
+Backend
+- Node.js
+- Express
+- .NET (C#)
+
+Bases de datos
+- MySQL
+- SQLite
+- MongoDB
+
+Herramientas
+- Git
+- GitHub
+- Postman
+
+P R O X I M A M E N T E 
+- React
+- Unity
+
+📌 Proyectos destacados
+
+🚧 Portfolio personal — En desarrollo
+🚧 Sistema de gestión — En desarrollo
+🚧 API REST — En desarrollo
+
+📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/kisio-dev-577716450/
+- Email: kisiodev@gmail.com
+
