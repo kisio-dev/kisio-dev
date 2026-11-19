@@ -16,6 +16,7 @@ Frontend
 - React
 
 Framework
+- React
 - Vue.js
 
 Backend
